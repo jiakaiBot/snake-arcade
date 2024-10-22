@@ -13,3 +13,8 @@ This is a simple implementation of the classic Snake game using HTML, CSS, and J
 - The game board is a 400x400 pixel area.
 - The snake and food are represented by green and red squares, respectively.
 - The game will restart automatically if the snake collides with the walls or itself.
+
+## Acknowledgments
+Special thanks to:
+- GitHub Copilot Workspace for code suggestions and assistance
+- Claude 3.5 Sonnet for guidance and problem-solving support
